@@ -31,7 +31,8 @@ The goal of this repository is to demonstrate:
 ```
 ## Workflow Summary
 
-- The repository named 2026Hydroinformatics was created using the GitHub web and GitHub desktop interface.
+- The repository named 2026Hydroinformatics was created using the GitHub web interface.
+- Other GitHub operations (push and pull) was done using GitHub desktop interface.
 - This `README.md` file was modified to include custom descriptive content.
 - One source file (date/time functions) was added directly to the `main` branch.
 - A new feature branch (`new-feature`) was created to add a temperature conversion code file.
